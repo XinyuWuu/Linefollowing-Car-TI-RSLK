@@ -8,6 +8,8 @@ As an educational platform, this project is designed to provide a hands-on, "bot
 
 The firmware is developed in **C** and uses the **TI DriverLib peripheral library** to interface directly with the robot's hardware, ensuring efficient and precise control.
 
+https://github.com/user-attachments/assets/fd2da2f1-7bcd-475e-9a3a-7d33e3da3afc
+
 ## Hardware Specifications
 
 | Component             | Specification                           |
